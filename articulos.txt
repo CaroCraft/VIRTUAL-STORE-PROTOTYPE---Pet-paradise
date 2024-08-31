@@ -1,0 +1,30 @@
+
+***LISTA DE ARTÍCULOS Y SUS PRECIOS***
+
+(Número de identificación) Nombre del artículo ----- Precio 
+
+(1) Alimento_para_perro_1kg ---------- $120
+(2) Alimento_para_gato_1kg ----------- $120
+(3) Alimento_para_conejo_1kg --------- $80
+(4) Alimento_para_ave_1kg ------------ $50
+(5) Alimento_para_hámster_500gr ------ $140
+(6) Juguete_para_perro --------------- $50
+(7) Juguete_para_gato ---------------- $50
+(8) Rascador_de_gato ----------------- $500
+(9) Cama_chica ----------------------- $150
+(10) Cama_mediana -------------------- $200
+(11) Cama_grande --------------------- $300
+(12) Transportín_chico --------------- $600
+(13) Transportín_mediano ------------- $700
+(14) Transportín_grande -------------- $800
+(15) Shampoo_para_perros_y_gatos ----- $65
+(16) Cepillo ------------------------- $30
+(17) Antipulgas ---------------------- $220
+(18) Collar -------------------------- $60
+(19) Correa -------------------------- $50
+(20) Caja_de_arena ------------------- $130
+(21) Terrario_para_hámster ----------- $1000
+(22) Pecera_40_galones --------------- $2000
+(23) Kit_de_comedero_y_bebedero ------ $140
+
+SELECCIONA 24 SI DESEAS REALIZAR UNA BÚSQUEDA DE ARTÍCULO
